@@ -1,11 +1,11 @@
-body {
+body{
     text-align : center;
     margin : 0;
-    padding-top: 600px;
+    padding-top : 600px;
 }
 
-.profile{
-    border-radius: 50%;
+.profile {
+    border-radius : 50%;
 }
 
 #bienvenida {
@@ -14,34 +14,28 @@ body {
     background : linear-gradient(#60ebeb 0%, #27ae60 100%);
     display : table;
     width : 100%;
-    height : 100%;
+    height: 100%;
 }
 
-h1 {
-    font-size : 40px;
-    font-family : sans-serif;
-    font-weight : 300;
-}
-
-#nombre {
+#nombre{
     font-size : 50px;
     font-family : 'Cinzel Decorative', cursive;
 }
 
-.parallax-inner{
+.parallax-inner {
     display : table-cell;
     vertical-align : middle;
 }
 
 #bio {
-    font-family : 'Cinzel Decorative', cursive;
+    font-family : 'Comic Neue', cursive;
     padding : 50px;
 }
 
 .line {
     height : 3px;
-    background-color: rgb(105, 101, 101);
-    width : 100%;
+    background-color : black;
+    width : 70px;
     margin : 8px auto;
 }
 
@@ -79,7 +73,7 @@ h2 {
 }
 
 #contact {
-    backgorund : lightgray;
+    background : rgb(215, 212, 212);
 }
 
 .contact_1 h3 {
